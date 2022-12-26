@@ -15,6 +15,6 @@ $ git clone https://github.com/Knowaskillua/PhCrack
 
 $ cd PhCrack
 
-$ python phcrack.py
+$ python Phcrack.py
 
 Enjoy!!
